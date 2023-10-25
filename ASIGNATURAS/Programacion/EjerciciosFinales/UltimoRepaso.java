@@ -15,13 +15,13 @@ public class UltimoRepaso {
 		
 		System.out.println("Suma: " + (x + y));
 		System.out.println("Resta: " + (x - y));
-		System.out.println("División: " + (x / y));
-		System.out.println("Multiplicación: " + (x * y));
+		System.out.println("Divisiï¿½n: " + (x / y));
+		System.out.println("Multiplicaciï¿½n: " + (x * y));
 		System.out.println("Ahora, demos la vuelta a los valores.");
 		System.out.println("Suma: " + (y + x));
 		System.out.println("Resta: " + (y - x));
-		System.out.println("División: " + (y / x));
-		System.out.println("Multiplicación: " + (y * x));
+		System.out.println("Divisiï¿½n: " + (y / x));
+		System.out.println("Multiplicaciï¿½n: " + (y * x));
 	}
 	
 	public static void ejercicio2() {
@@ -38,10 +38,10 @@ public class UltimoRepaso {
 	}
 	
 	public static void ejercicio3() {
-		System.out.println("Introduzca el primer número: ");
+		System.out.println("Introduzca el primer nï¿½mero: ");
 		String num1 = System.console().readLine();
 		
-		System.out.println("Introduzca el segundo número: ");
+		System.out.println("Introduzca el segundo nï¿½mero: ");
 		String num2 = System.console().readLine();
 		
 		int numero1 = Integer.parseInt(num1);
@@ -49,7 +49,7 @@ public class UltimoRepaso {
 		
 		int max = Math.max(numero1,numero2);
 		
-		System.out.println("De los números introducidos, " + max + " es el mayor.");
+		System.out.println("De los nï¿½meros introducidos, " + max + " es el mayor.");
 	}
 	
 	public static void ejercicio4() {
@@ -65,6 +65,7 @@ public class UltimoRepaso {
 		double valor = (PI * (r * r) * h) / 3;
 		
 		
-		System.out.println("El volumen del cono son..." + valor + " centimetros cúbicos.");
+		System.out.println("El volumen del cono son..." + valor + " centimetros cï¿½bicos.");
+		scanner.close;
 	}
 }
