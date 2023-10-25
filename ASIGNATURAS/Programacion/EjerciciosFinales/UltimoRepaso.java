@@ -66,6 +66,5 @@ public class UltimoRepaso {
 		
 		
 		System.out.println("El volumen del cono son..." + valor + " centimetros c�bicos.");
-		scanner.close;
 	}
 }
