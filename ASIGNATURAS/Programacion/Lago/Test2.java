@@ -6,10 +6,9 @@ public class Test2 {
 		String ano = System.console().readLine();
 		int edad = Integer.parseInt(ano);
 		
-		System.out.print("¿Ha participado previamente en alguna maratón? (Responda \"1\" para Si o \"2\" para No): ");
+		System.out.print("ï¿½Ha participado previamente en alguna maratï¿½n? (Responda \"1\" para Si o \"2\" para No): ");
 		String respuestaMay = System.console().readLine();
-		
-		switch()
+
 	}
 }
 
