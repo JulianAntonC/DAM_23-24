@@ -1,0 +1,26 @@
+MENU (nombre: cadena, precio: real)
+CP= {nombre}
+
+COMPONE (nom_menu: cadena, cod_plato: cadena)
+CP= {nom_menu, cod_plato}
+CA= {nom_menu} → MENU
+CA= {cod_plato} → PLATO
+
+VINO (codigo: cadena, nombre: cadena, tipo: cadena, añada: entero)
+CP= {codigo}
+
+INGREDIENTE (codigo: cadena, nombre: cadena, precio: real, descripcion: cadena, existencias: real)
+CP= {codigo}
+
+CONTIENE (cod_plato: cadena, cod_ingrediente: cadena, cantidad: real)
+CP= {cod_plato, cod_ingrediente}
+CA= {cod_plato} → PLATO
+CA= {cod_ingrediente} → INGREDIENTE
+
+COCINERO (dni: cadena, nombre: cadena, pais: cadena, edad: entero)
+CP= {dni}
+
+PLATO (codigo: cadena, nombre: cadena, calorias: entero, diseñador: cadena, vino: cadena)
+CP= {codigo}
+CA= {diseñador} → COCINERO
+CA= {vino} → VINO
