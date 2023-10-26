@@ -1,19 +1,6 @@
 public class Billete {
 	public static void main(String[] args) {
-		/*
-			billete sencilo = 0.33 Euros/Kilometro
-			billete ida/vuelta = 0.26 Euros/Kilometro
-			
-			50+ Euros = 5% Descuento
-			110+ Euros = 10% Descuento
-			tarjeta Interrail = 25% Descuento
-			
-			Solo se aplica el mayor descuento
-			Se mostrará la información por "printf"
-			
-			¿Qué distancia se va a recorrer? double
-			¿Cuál es el valor del ticket? double
-		*/
+		
 		final double BILLETE_S = 0.33;
 		final double BILLETE_IV = 0.26;
 		final double DESCUENTO_INTERRAIL = 0.25;
