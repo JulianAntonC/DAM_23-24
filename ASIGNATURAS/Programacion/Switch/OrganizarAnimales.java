@@ -1,6 +1,7 @@
 public class OrganizarAnimales {
 	public static void main(String[] args) {
 		String animal = System.console().readLine();
+		animal.toLowerCase();
 		
 		switch (animal){
 			
