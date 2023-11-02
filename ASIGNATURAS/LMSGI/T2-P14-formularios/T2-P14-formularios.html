@@ -7,11 +7,6 @@
   <meta name="author" content="Julián Antón">
   <meta name="keywords" content="tablas, practica 12, ">
   <meta name="generator" content="Visual Studio Code">
-  <style>
-    body{font-family: 'Courier New', Courier, monospace;}
-    body{background-color: black; color: gainsboro; text-align: center; align-content: center;}
-    h1{text-align: center; color: gainsboro;}
-  </style>
 </head>
 <body>
   <h3>Formulario Inscripción</h3>
@@ -21,14 +16,34 @@
 
     <legend>Datos personales</legend>
 
-    Nombre <br/><input type="text" name="nombre" value="" /><br/>
-    Apellidos <br/><input type="text" name="apellidos" value=""/><br/>
-    DNI <br/><input type="text" name="dni" value="" size="10" maxlength="9" /><br/>
-    Sexo</br>
-    <input type="radio" name="sexo" value="hombre">Hombre</br>
+    <label for="nombre">
+      Nombre <br>
+      <input type="text" name="nombre" value="" />
+      <br>
+    </label>
+
+    <label for="apellidos">
+      Apellidos <br>
+      <input type="text" name="apellidos" value=""/>
+      <br>
+    </label>
+
+    <label for="dni">
+      DNI <br>
+      <input type="text" name="dni" value="" size="10" maxlength="9" />
+      <br>
+    </label>
+
+    Sexo
+    <br>
+    <input type="radio" name="sexo" value="hombre">Hombre
     <input type="radio" name="sexo" value="mujer" checked="checked">Mujer</br>
-    Subir foto <input type="file" name="imagen"><br/>
-    <input type="checkbox" name="subscripcion">Subscribirse al boletín de novedades.<br/>
+
+    <label for="fichero"> Subir foto </label>
+    <input type="file" id="fichero" name="adjunto"><br>
+
+    <input type="checkbox" name="subscripcion">
+    <label for="subscripcion">Subscribirse al boletín de novedades.</label>
 
     </fieldset>
 
@@ -36,9 +51,26 @@
 
     <legend>Datos de conexión</legend>
 
-    Nombre de usuario<br/><input type="text" name="nombre" value="" maxlength="10" /><br/>
-    Contraseña<br/><input type="password" name="password" value="" maxlength="10" /><br/>
-    Repite la contraseña<br/><input type="password" name="password2" value="" maxlength="10" />
+    <label for="nombre">
+      Nombre de usuario <br>
+      <input type="text" name="nombre" value="" maxlength="10">
+      <br>
+    </label>
+    
+    <label for="password">
+      Contraseña <br>
+      <input type="password" name="password" value="" maxlength="10">
+      <br>
+    </label>
+
+    <label for="password2">
+      Repite la contraseña<br/><input type="password" name="password2" value="" maxlength="10">
+      <br>
+    </label>
+    
+    <br>
+    <input type="button" name="guardar" value="Guardar Cambios">
+    <input type="reset" name="reinicio" value="Borrar datos">
 
     </fieldset>
 
