@@ -11,32 +11,52 @@ public class SentenciaDeRuptura {
 
         for (int i = 10; i <= 20; i++) {
 
-            System.out.println("i = " + i);
+            if (i == 16) {
+                continue;
+            }
 
-            if( i == 15){
-                i++;
+            if(i % 2 == 0){
+
+                System.out.println("i = " + i);
+
+                }
             }
         }
-    }
 
     public static void incrementoDos() {
 
         for (int i = 10; i <= 20; i += 2) {
 
-            System.out.println("i = " + i);
+            if(i == 16){
+                continue;
 
-            if( i == 14){
-                i += 2;
+            }
+
+            if(i % 2 == 0){
+                System.out.println("i = " + i);
+
             }
         }
     }
 
     public static void incrementoBucle() {
 
-        for (int i = 10; i <= 20; i++) {
+        for (int i = 10; i != -1; i++) {
 
-            System.out.println("i = " + i);
 
+            if( i == 16){
+                continue;
+            }
+
+            if (i % 2 == 0) {
+
+                System.out.println("i = " + i);
+
+            }
+
+            if( i == 20){
+                break;
+            }
         }
     }
 }
