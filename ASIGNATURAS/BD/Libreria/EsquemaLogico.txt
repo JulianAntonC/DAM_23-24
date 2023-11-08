@@ -1,0 +1,19 @@
+SOCIO (cod.socio: entero, nombre: cadena, dirección: cadena, fecha: real, cargo: cadena)
+CP= {cod.socio}
+
+LIBRO (cod.lib: entero, titulo: cadena, autor: cadena, género: cadena)
+CP= {cod.libro}
+
+CA= {género} -> GENERO
+
+RECOMIENDA (cod.socio: entero, cod.libro: entero, puntuación: entero)
+CP= {cod.socio, cod.libro}
+
+CA= {cod.socio} -> SOCIO
+
+CA= {cod.libro} -> LIBRO
+
+GENERO (nombre: cadena, descripción: cadena, gen.principal: cadena)
+CP= {nombre}
+
+CA= {gen.principal} -> GENERO
