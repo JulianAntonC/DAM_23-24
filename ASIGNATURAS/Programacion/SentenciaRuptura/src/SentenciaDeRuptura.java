@@ -15,7 +15,7 @@ public class SentenciaDeRuptura {
 
             if( i == 15){
                 i++;
-            }z
+            }
         }
     }
 
@@ -25,8 +25,10 @@ public class SentenciaDeRuptura {
 
             System.out.println("i = " + i);
 
+            if( i == 14){
+                i += 2;
+            }
         }
-
     }
 
     public static void incrementoBucle() {
