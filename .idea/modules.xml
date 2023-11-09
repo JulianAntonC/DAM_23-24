@@ -3,12 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DAM_23-24.iml" filepath="$PROJECT_DIR$/.idea/DAM_23-24.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ASIGNATURAS/Programacion/Eco/Eco.iml" filepath="$PROJECT_DIR$/ASIGNATURAS/Programacion/Eco/Eco.iml" />
       <module fileurl="file://$PROJECT_DIR$/ASIGNATURAS/Entornos/Ejercicios/Ejercicios.iml" filepath="$PROJECT_DIR$/ASIGNATURAS/Entornos/Ejercicios/Ejercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/ASIGNATURAS/Entornos/EjerciciosB/EjerciciosB.iml" filepath="$PROJECT_DIR$/ASIGNATURAS/Entornos/EjerciciosB/EjerciciosB.iml" />
       <module fileurl="file://$PROJECT_DIR$/ASIGNATURAS/Entornos/IntelliJ/IntelliJ.iml" filepath="$PROJECT_DIR$/ASIGNATURAS/Entornos/IntelliJ/IntelliJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/ASIGNATURAS/Programacion/Programacion.iml" filepath="$PROJECT_DIR$/ASIGNATURAS/Programacion/Programacion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ASIGNATURAS/Programacion/SentenciaRuptura/SentenciaRuptura.iml" filepath="$PROJECT_DIR$/ASIGNATURAS/Programacion/SentenciaRuptura/SentenciaRuptura.iml" />
       <module fileurl="file://$PROJECT_DIR$/ASIGNATURAS/Entornos/untitled/untitled.iml" filepath="$PROJECT_DIR$/ASIGNATURAS/Entornos/untitled/untitled.iml" />
     </modules>
   </component>

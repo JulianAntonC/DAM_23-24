@@ -27,7 +27,7 @@ public class Billete {
 		
 		do {
 			System.out.printf("¿Qué tipo de billete va a emplear para viajar? (1 | 2): ");
-	
+			
 			ticket = Integer.parseInt(System.console().readLine());
 			
 			switch(ticket) {

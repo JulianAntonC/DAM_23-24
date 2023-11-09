@@ -1,55 +1,52 @@
 public class Maraton {
 	public static void main(String[] args) {
 		
+		int velocidad = 0;
+		
 		System.out.print("Introduzca su edad: ");
 		
-		String ano = System.console().readLine();
-		int edad = Integer.parseInt(ano);
+		int edad = Integer.parseInt(System.console().readLine());
 		
-		if(edad >= 35) {
-			System.out.print("Â¿Ha participado previamente en alguna maratï¿½n? (Responda \"1\" para Si o \"2\" para No): ");
-			String respuestaMay = System.console().readLine();
-			int mayor = Integer.parseInt(respuestaMay);
+		if(edad >= 18){
 			
-			if(mayor == 1) {
-				System.out.print("Â¿La ha terminado en un tiempo menor a 225 minutos (3,75 horas)? (Responda \"1\" para Si o \"2\" para No): ");
-				String respuestaMay1 = System.console().readLine();
-				int mayor1 = Integer.parseInt(respuestaMay1);
+			System.out.print("\n¿Ha participado previamente en alguna maratón? (Responda \"1\" para Sí o \"2\" para No): ");
+			int participacion = Integer.parseInt(System.console().readLine());
+			
+			if(participacion == 1) {
 				
-				if(mayor1 == 1) {
-					System.out.println("Felicidades, ha sido admitido para la carrera. ï¿½Esperamos con ilusiï¿½n el verle participar!");
-					return;
+				if(edad < 35) {
+					
+					System.out.print("\n¿La ha terminado en un tiempo menor a 190 minutos (3,16 horas)? (Responda \"1\" para Sí o \"2\" para No): ");
+					
 				} else {
-					System.out.println("Lo sentimos, usted no ha sido seleccionado.");
-					return;
+					
+					System.out.print("\n¿La ha terminado en un tiempo menor a 225 minutos (3,75 horas)? (Responda \"1\" para Sí o \"2\" para No): ");
+					
 				}
+				
+				velocidad = Integer.parseInt(System.console().readLine());
+				
 				
 			} else {
-				System.out.println("Lo sentimos, usted no es apto para participar.");
-				return;
+				
+				velocidad = 2;
 				
 			}
-		} else if((edad < 35) && (edad >= 18)) {
-			System.out.print("Â¿Ha participado previamente en alguna maratï¿½n? (Responda \"1\" para Si o \"2\" para No): ");
-			String respuestaMen = System.console().readLine();
-			int menor = Integer.parseInt(respuestaMen);
 			
-			if(menor == 1) {
-				System.out.print("Â¿La ha terminado en un tiempo menor a 190 minutos (3,16 horas)? (Responda \"1\" para Si o \"2\" para No): ");
-				String respuestaMen1 = System.console().readLine();
-				int menor1 = Integer.parseInt(respuestaMen1);
+			if(velocidad == 1) {
+	
+				System.out.println("Felicidades, ha sido admitido para la carrera. ¡Esperamos con ilusión el verle participar!");
 				
-				if(menor1 == 1) {
-					System.out.println("Felicidades, ha sido admitido para la carrera. ï¿½Esperamos con ilusiï¿½n el verle participar!");
-					return;
-				} else {
-					System.out.println("Lo sentimos, usted no ha sido seleccionado.");
-					return;
-				}
+			} else {
+			
+				System.out.println("\nLo sentimos, usted no ha sido seleccionado.");	
+				
 			}
+			
 		} else {
-			System.out.println("Lo sentimos, usted no es apto para participar.");
-			return;
+			
+			System.out.println("\nLo sentimos, usted no es apto para participar.");
+			
 		}
 	}
 }

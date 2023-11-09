@@ -10,13 +10,7 @@ public class Conversion {
 		
 		double temperatura = KELVIN + c;
 		
-		if(c == 0){
-			temperatura = KELVIN;
-			System.out.printf("La temperatura en Kelvin son... %.3f",temperatura);
-			return;
-		} else {
-			System.out.printf("La temperatura en Kelvin son... %.3f",temperatura);
-		}
+		System.out.printf("La temperatura en Kelvin son... %.3f",temperatura);
 		
 	}
 }
