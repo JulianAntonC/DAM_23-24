@@ -11,45 +11,45 @@ public class Receta {
 		double curry = 1.5;
 		
 		System.out.print("\nIntroduzca la cantidad de gente para la que realizará la receta: ");
-		int input = Integer.parseInt(System.console().readLine());
+		int human = Integer.parseInt(System.console().readLine());
 		
 		
-		coliflor = ((coliflor * input) / 6);
+		coliflor = ((coliflor * human) / 6);
 		if(coliflor <= 100) {
 			coliflor = 100;
 		}
 		
-		cebolleta = ((cebolleta * input) / 6);
+		cebolleta = ((cebolleta * human) / 6);
 		if(cebolleta <= 0.5) {
 			cebolleta = 0.5;
 		}
 		
-		zanahoria = ((zanahoria * input) / 6);
+		zanahoria = ((zanahoria * human) / 6);
 		if(zanahoria <= 1) {
 			zanahoria = 1;
 		}
 		
-		pechugaPollo = ((pechugaPollo * input) / 6);
+		pechugaPollo = ((pechugaPollo * human) / 6);
 		if(pechugaPollo <= 83.3) {
 			pechugaPollo = 83.3;
 		}
 		
-		pinon = ((pinon * input) / 6);
+		pinon = ((pinon * human) / 6);
 		if(pinon <= 10) {
 			pinon = 10;
 		}
 		
-		pasa = ((pasa * input) / 6);
+		pasa = ((pasa * human) / 6);
 		if(pasa <= 20) {
 			pasa = 20;
 		}
 		
-		caldo = ((caldo * input) / 6);
+		caldo = ((caldo * human) / 6);
 		if(caldo <= 36.7) {
 			caldo = 36.7;
 		}
 		
-		curry = ((curry * input) / 6);
+		curry = ((curry * human) / 6);
 		if(curry <= 0.5) {
 			curry = 0.5;
 		}

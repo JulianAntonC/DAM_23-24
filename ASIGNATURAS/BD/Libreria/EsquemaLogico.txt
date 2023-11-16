@@ -1,19 +1,41 @@
-SOCIO (cod.socio: entero, nombre: cadena, dirección: cadena, fecha: real, cargo: cadena)
-CP= {cod.socio}
+SOCIO (cod_socio: cadena, nombre: cadena, dirección: cadena, fecha: real, cargo: cadena)
+CP= {cod_socio}
 
-LIBRO (cod.lib: entero, titulo: cadena, autor: cadena, género: cadena)
-CP= {cod.libro}
+USUARIO (email: cadena, contrasenya: cadena, padrino: cadena)
+CP= {email}
+CA= {padrino}
+VNN= {padrino}
 
+LIBRO (cod_lib: cadena, titulo: cadena, autor: cadena, género: cadena)
+CP= {cod_libro}
 CA= {género} -> GENERO
 
-RECOMIENDA (cod.socio: entero, cod.libro: entero, puntuación: entero)
-CP= {cod.socio, cod.libro}
+RECOMIENDA (cod_socio: cadena, cod_libro: cadena, puntuacion: entero)
+CP= {cod_socio, cod.libro}
+CA= {cod_socio} -> SOCIO
+CA= {cod_libro} -> LIBRO
 
-CA= {cod.socio} -> SOCIO
-
-CA= {cod.libro} -> LIBRO
-
-GENERO (nombre: cadena, descripción: cadena, gen.principal: cadena)
+GENERO (nombre: cadena, descripción: cadena, gen_principal: cadena)
 CP= {nombre}
+CA= {gen_principal} -> GENERO
 
-CA= {gen.principal} -> GENERO
+OPINION (user: cadena, socio: cadena, libro: cadena, puntuacion: entero, comentario: cadena, fecha_modificacion: fecha)
+CP= {user, socio, libro, fecha_modificacion}
+CA= {socio, libro} -> RECOMIENDA
+CA= {user} -> USUARIO
+VNN= {puntuacion}
+
+EJEMPLAR (codejemplar: cadena, libro: cadena, cantidad: entero, donador: cadena, fecha_donacion: fecha, estado: cadena)
+CP= {codejemplar}
+CA= {libro} -> LIBRO
+CA= {donador} -> SOCIO
+
+PRESTAMO (num_prestamo: entero, socio: cadena fecha_prestamo: fechaHora)
+CP= {num_prestamo}
+CA= {socio} -> SOCIO
+VNN= {socio, fecha_prestamo}
+
+EJEMPLAR_PRESTADO (prestamo: entero, ejemplar: cadena, fecha_devolucion: fecha)
+CP= {prestamo, ejemplar}
+CA= {prestamo} -> PRESTAMO
+CA= {ejemplar} -> EJEMPLAR

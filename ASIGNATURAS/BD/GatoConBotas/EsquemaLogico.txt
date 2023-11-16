@@ -1,0 +1,32 @@
+VETERINARIO (cod_vet: cadena, nombre: cadena, fecha_alta: fecha, num_colegiado: entero, fecha_titulacion: fecha)
+CP={cod_vet}
+CAlt= {num_colegiado}
+VNN= {nombre, fecha_alta, num_colegiado}
+
+CLIENTE (cod_client: cadena, nombre: cadena, direccion: cadena, telefono: entero, aseguradora: cadena, bono: cadena)
+CP= {cod_client}
+VNN= {nombre, telefono}
+
+MASCOTA (cod_pet: cadena, nombre: cadena, fecha_nacimiento: fecha, especie: cadena, propietario: cadena)
+CP= {cod_pet}
+VNN= {especie, propietario}
+CAlt= {nombre, propietario}
+CA= {propietario} -> CLIENTE
+	Borrado en cascada
+
+BONO (bono: cadena, descripcion: cadena, descuento: real)
+CP= {bono}
+VNN= {descuento}
+
+VISITA (vet: cadena, pet: cadena, fecha_visita: fecha, diagnostico: cadena)
+CP= {vet, pet, fecha_visita}
+CA= {vet} -> VETERINARIO
+CA= {pet} -> MASCOTA
+VNN= {diagnostico}
+
+DISFRUTA_DE (cliente: cadena, bono: cadena)
+CP= {cliente, bono}
+CA= {cliente} -> CLIENTE
+CA= {bono} -> BONO
+	Borrado en Cascada
+	Actualización en cascada

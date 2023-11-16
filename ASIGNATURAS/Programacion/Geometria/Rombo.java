@@ -3,54 +3,40 @@ public class Rombo {
 		
 		
 		System.out.print("\n¿Cuál desea que sea la linea central del rombo?: ");
-		int lineas = Integer.parseInt(System.console().readLine());
+		int line = Integer.parseInt(System.console().readLine());
 		System.out.print("\n");
 		
-		lineas *= 2;
+		line *= 2;
 		
 		// Mitad superior del rombo
-		
-		for(int asteriscos = 1; asteriscos <= lineas; asteriscos += 2) {
+		for(int top = 1; top <= line; top += 2) {
 			
-			
-			for(int espacios = lineas - 1; espacios > asteriscos; espacios--) {
-				
+			//Espacios
+			for(int spac = line - 1; spac > top; spac--) {
 				System.out.print(" ");
-				espacios--;
-				
+				spac--;
 			}
 			
-
-			
-			for(int horizontal = 0; horizontal < asteriscos; horizontal++) {
-				
+			//Tamaño Horizontal
+			for(int hori = 0; hori < top; hori++) {
 				System.out.print("*");
-				
 			}
 			
 			System.out.print("\n");
-			
 		}
-			
-			// Lo que se encuentra aquí abajo es la mitad inferior.
-			
-		for(int asteriscos = lineas - 2; asteriscos > 0; asteriscos -= 2) {
-			
-			
-			for(int espacios = lineas - 1; espacios > asteriscos; espacios--) {
-				
-				System.out.print(" ");
-				espacios--;
-				
-			}
-			
+		
+		// Lo que se encuentra aquí abajo es la mitad inferior.
+		for(int bot = line - 2; bot > 0; bot -= 2) {
 
-			
-			for(int horizontal = 0; horizontal < asteriscos - 1; horizontal++) {
-			
-				System.out.print("*");
-				
+			for(int spac = line - 1; spac > bot; spac--) {
+				System.out.print(" ");
+				spac--;
 			}
+
+			for(int hori = 0; hori < bot - 1; hori++) {
+				System.out.print("*");
+			}
+			
 			System.out.print("\n");
 		}
 	}
