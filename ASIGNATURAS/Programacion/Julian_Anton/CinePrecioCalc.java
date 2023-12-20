@@ -2,7 +2,11 @@ public class CinePrecioCalc {
 	public static void main (String[] args) {
 		
 
+<<<<<<< HEAD
 		final double DESCUENTO = 0.1d;
+=======
+		final double DESCUENTO = 0.1;
+>>>>>>> 89b660d918912a1809e876eb0cc3b736e41c3ea1
 		int ticket = 8;
 		int personas = 0;
 		boolean pareja = false;
@@ -65,8 +69,13 @@ public class CinePrecioCalc {
 		
 		//Calculos
 		double precio = ticket * personas;
+<<<<<<< HEAD
 		if((pareja == true) && (personas % 2 == 0)) {
 			precio = 11 * (personas / 2d);
+=======
+		if((pareja == true) && (personas == 2)) {
+			precio = 11;
+>>>>>>> 89b660d918912a1809e876eb0cc3b736e41c3ea1
 		}
 		
 		if(descuentoFid == true) {
