@@ -1,0 +1,26 @@
+Conocer los ficheros de Linux: "/", "etc", "dev"...
+
+ls /bin
+ls /tmp
+ls -r /etc/t*
+ls /dev/tty??
+ls /dev/tty[1-4]
+ls /dev/t*C1
+ls -al /
+ls /etc/!t*
+ls -R /usr
+cd /tmp
+which vi
+which visudo
+which nano
+date
+whereis vi
+locate nano
+cd /home
+ls -i
+mkdir prueba
+touch uno dos tres
+mkdir Uno Dos
+rm -r ./prueba/
+mkdir -p dir1/dir11 dir2 dir3/dir31/dir311 dir3/dir31/dir312
+

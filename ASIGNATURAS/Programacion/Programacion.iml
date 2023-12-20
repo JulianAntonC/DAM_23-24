@@ -7,13 +7,21 @@
       <sourceFolder url="file://$MODULE_DIR$/AutoEva" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Bucles" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Conversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Eco" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FechaCumpleaños" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Geometria" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HolaMundo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/If" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Julian_Anton" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lago" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MathEjercicios" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Parse" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ProgramasOperadores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RecetaGrupo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rombo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RupturaSecuencia" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Suma" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SumaPares" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Switch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ternarios" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tren" isTestSource="false" />

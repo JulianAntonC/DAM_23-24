@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Ejemplo de documento HTML con una imagen</title>
+    <link rel="icon" type="image/x-icon" href="vaca.ico" />
+    <meta charset="UTF-8" />
+    <meta name="author" content="Julián Antón" />
+    <meta
+      name="keywords"
+      content="submarinismo, españa, moo, moo submarinista, profundidades, valencia, murcia, almeria"
+    />
+    <meta name="generator" content="Visual Studio Code" />
+    <link rel="stylesheet" type="text/css" href="stile1.css" />
+  </head>
+
+  <body>
+    <header>
+      <h1>
+        <strong>Contacta con Moo</strong>
+
+        <img
+          src="images/MooScuba.png"
+          alt="Moo Scuba"
+          height="206"
+          width="192"
+        />
+      </h1>
+      <img src="images/Acuario.png" alt="Peces" height="341" width="1134" />
+      <nav>
+        <ul type="circle">
+          <li>
+            <h3><a href="indice.html">Índice</a></h3>
+          </li>
+          <li>
+            <h3><a href="contacto.html">Contacto</a></h3>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <section>
+      <h2><strong>Formulario de contacto</strong></h2>
+      <form>
+        <fieldset>
+          <legend>Datos de login</legend>
+
+          <label for="email">
+            Email:
+            <input
+              type="text"
+              id="email"
+              name="email"
+              placeholder="email@empresa.com"
+            />
+            <br />
+          </label>
+
+          <label for="contraseña">
+            Contraseña:
+            <input
+              type="password"
+              id="contraseña"
+              name="contraseña"
+              maxlength="4"
+              placeholder="Introduce 4 dígitos"
+            />
+            <br />
+          </label>
+        </fieldset>
+
+        <fieldset>
+          <legend>Información Extra</legend>
+
+          <label for="profundidad">
+            Profundidad
+            <select select id="profundidad" name="profundidad">
+              <option value="15">15 metros</option>
+              <option value="20">20 metros</option>
+              <option value="25">25 metros</option>
+              <br />
+            </select>
+          </label>
+
+          <br />
+          <input
+            name="subscripcion"
+            type="checkbox"
+            value="subscripcion"
+          />Deseo suscribirme para recibir información de la página<br />
+          <input
+            name="condiciones"
+            type="radio"
+            value="condiciones aceptadas"
+          />Acepto las condiciones propuestas
+          <input
+            name="condiciones"
+            type="radio"
+            value="condiciones rechazadas"
+          />NO acepto las condiciones propuestas
+        </fieldset>
+        <input type="button" name="enviar" value="Mandar formulario" />
+        <input type="reset" name="borrar" value="Borrar formulario" />
+      </form>
+    </section>
+
+    <footer>
+      <h3>Suscríbete a mis redes sociales</h3>
+
+      <a href="https://es-es.facebook.com/" target="_blank"
+        ><img src="images/facebook.png" alt="facebook" height="50" width="50"
+      /></a>
+      <a href="https://twitter.com/" target="_blank"
+        ><img src="images/twitter.png" alt="twitter" height="50" width="50"
+      /></a>
+      <a href="https://www.instagram.com/" target="_blank"
+        ><img src="images/instagram.png" alt="instagram" height="50" width="50"
+      /></a>
+
+      <p>
+        O manda un correo electronico
+        <a href="mailto:moo@MooSubmarinista.com">Pincha aquí</a>
+      </p>
+
+      <p>Legal | Política de privacidad</p>
+    </footer>
+  </body>
+</html>

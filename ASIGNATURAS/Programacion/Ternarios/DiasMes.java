@@ -22,16 +22,16 @@ public class DiasMes {
 			case 2:
 			
 				if((fechaAnual % 4 == 0) && (fechaAnual % 100 != 0) || (fechaAnual % 400 == 0)) { 
-				
-				System.out.println("Tiene 29 días.");
+					System.out.println("Tiene 29 días.");
 				
 				} else {
-					
 					System.out.println("Tiene 28 días.");
 					
 				}
 				
 				break;
+				
+			default: System.out.println("No se ha introducido un mes válido.");
 		}
 		
 	}

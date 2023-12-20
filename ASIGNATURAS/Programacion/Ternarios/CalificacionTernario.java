@@ -1,5 +1,5 @@
 public class CalificacionTernario {
-	public static void main (String [] args) {
+	public static void main (String[] args) {
 		
 		int nota;
 		
@@ -9,10 +9,10 @@ public class CalificacionTernario {
 			nota = Integer.parseInt(entrada);
 			
 			String resultado = nota >= 0 && nota <= 100 ?
-				nota >= 90 && nota <= 100 ? "Tiene una A" :
+				nota >= 90 ? "Tiene una A" :
 					nota >= 80 && nota <= 89 ? "Tiene una B" :
 						nota >= 70 && nota <= 79 ? "Tiene una C" :
-							nota >= 60 && nota <= 69 ? "Tiene una D" : "Tiene una F": "Nota no válida";
+							nota >= 60 && nota <= 69 ? "Tiene una D" : "Tiene una F": "Nota no vï¿½lida";
 									
 			System.out.println("\n" + resultado);
 			

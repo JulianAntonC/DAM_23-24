@@ -14,6 +14,7 @@ public class Tarta {
 		System.out.println("");
 		System.out.println("Añadir su nombre a la tarta cuesta 2.75 (Se solicitará su nombre en caja)");
 		System.out.println("");
+		
 		System.out.print("Elija un sabor: ");
 		String sabor = System.console().readLine();
 		
