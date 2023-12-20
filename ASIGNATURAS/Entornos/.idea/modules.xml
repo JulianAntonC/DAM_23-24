@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Entornos.iml" filepath="$PROJECT_DIR$/Entornos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectoSwing/ProyectoSwing.iml" filepath="$PROJECT_DIR$/ProyectoSwing/ProyectoSwing.iml" />
     </modules>
   </component>
 </project>

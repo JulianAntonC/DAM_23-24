@@ -1,15 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7c6c247-4a0e-4bdf-a5f4-5894cc7a347c" name="Changes" comment="" />
+    <list default="true" id="e7c6c247-4a0e-4bdf-a5f4-5894cc7a347c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Depuracion II/Part II/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/src/Interfaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProyectoSwing/src/Formulario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoSwing/ProyectoSwing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoSwing/ProyectoSwing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoSwing/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoSwing/src/User_Interface.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoSwing/src/User_Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/AdiosMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Billete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/BucleFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/CalificacionTernario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Char.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/CinePrecioCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Comparacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Conversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/CuestionDeFormas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Datos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/DiasMes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Eco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/EjercicioCuatro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/EjerciciosConversiones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/EjerciciosParse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/FelicitacionCumpleanos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Fichar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Final.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/HolaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/IfExercises.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/IntSuma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Lago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Maraton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/MathDos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Mes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/MesTernario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/OrganizarAnimales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/PiFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Real.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Receta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/RepeticionLetra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Rombo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/RomboCasero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/SentenciaDeRuptura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Suma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/SumaNumerosPares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Tarta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/TartaSw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Triangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/VerificadorPrimos.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2WvXYXscHO3NuLEa7p0ktyhIYPb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,7 +87,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Escritorio/Julian/Entornos"
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/DAM_23-24/ASIGNATURAS/Entornos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -30,7 +110,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697614075564</updated>
+      <workItem from="1703057544352" duration="263000" />
+      <workItem from="1703058711261" duration="1529000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
