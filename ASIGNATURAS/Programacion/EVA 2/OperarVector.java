@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class OperarVector {
+public class OperarVector {
+    public static void main(String args[]) {
+
+        double[] vector;
+
+    }
 }

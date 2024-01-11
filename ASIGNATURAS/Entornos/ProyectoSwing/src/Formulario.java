@@ -1,27 +1,33 @@
-import javax.swing.*; // importamos todos los elementos de la librería swing
+import javax.swing.*;
+import java.awt.*;
 
 public class Formulario extends JFrame {
 
-    // extends = herencia que nos ayuda a importar cosas que han hecho otras
-    // personas y se agregan dentro del JDK
-    // JFrame nos permite crear interfaces gráficas.
+    static private JLabel label1;
 
-    private JLabel label1;// etiqueta que muestra algo por pantalla
-    // Los labels siempre deberían de ser de tipo privado ya
-    // que solo la vamos a utilizar en la interfaz que estamos
-    // programando
-    public Formulario() {   // constructores -> debe tener el mismo nombre que la clase
-        setLayout(null);    // Vamos a indicar la posición. Null evitamos que el ide
-                            // nos lo ponga donde quiera.
-        label1 = new JLabel("Estos es una prueba!!");
-        label1.setBounds(10, 20, 200, 300);
-        add(label1);
-    }
+    public static void main(String args[]) {
 
-    public static void main(String args[]){
-        Formulario formulario1 = new Formulario();// vamos hacer uso de la clase Jframe
-        formulario1.setBounds(0,0,400,300);
-        formulario1.setVisible(true);
-        formulario1.setLocationRelativeTo(null); // que aparezca en el centro de la pantalla
+        label1 = new JLabel("Esto es una prueba!");
+        label1.setHorizontalAlignment(JLabel.CENTER);
+
+        JButton button = new JButton("Submit");
+
+        JTextField textField = new JTextField();
+        textField.setPreferredSize(new Dimension(120, 40));
+
+        JFrame frame = new JFrame();
+        frame.setTitle("¡Saluda!");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setResizable(true);
+        frame.setSize(420,420);
+        frame.setVisible(true);
+        frame.setLocationRelativeTo(null);
+        frame.add(label1);
+        frame.add(textField);
+        frame.add(button);
+        frame.pack();
+
+
+
     }
 }
