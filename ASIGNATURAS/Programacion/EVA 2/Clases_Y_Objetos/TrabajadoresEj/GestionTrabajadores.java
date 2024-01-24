@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * @author Juan L. y Ángel M.
+ * @author Juan y Angel
  */
 public class GestionTrabajadores {
 

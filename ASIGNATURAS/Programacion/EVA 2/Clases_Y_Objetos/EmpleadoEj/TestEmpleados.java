@@ -1,7 +1,7 @@
 package Clases_Y_Objetos.EmpleadoEj;
 
 public class TestEmpleados {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         Empleado E1 = new Empleado("Rafa");
         Directivo D1 = new Directivo("Mario");

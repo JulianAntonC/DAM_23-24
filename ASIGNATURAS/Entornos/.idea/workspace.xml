@@ -1,148 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c6c247-4a0e-4bdf-a5f4-5894cc7a347c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProyectoSwing/src/FormularioCompleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDocEj/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDocEj/javaDocEj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/Clases_Y_Objetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/oovv/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/oovv/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/Clases_Y_Objetos/Clases_Y_Objetos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProyectoSwing/src/Formulario.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoSwing/src/Formulario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AdiosMundo/AdiosMundo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AdiosMundo/AdiosMundo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AdiosMundo/Triangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/.idea/AutoEva.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/Conversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/Conversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/CuestionDeFormas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/CuestionDeFormas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/Maraton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/Maraton.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/Maraton.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/AutoEva/Maraton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Bucles/BucleFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Bucles/BucleFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Clases_Y_Objetos/TrabajadoresEj/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/Clases_Y_Objetos/TrabajadoresEj/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Conversion/EjerciciosConversiones.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Conversion/Nuevo documento de texto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Eco/Eco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Eco/Eco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EjerciciosArrays/EjerciciosArrays.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EjerciciosArrays/src/ArrayAlfabetico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EjerciciosArrays/src/ArrayMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EjerciciosArrays/src/SumaArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EjerciciosArrays/src/inversionArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EjerciciosFinales/UltimoRepaso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EjerciciosFinales/UltimoRepaso.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EjerciciosFinales/nuevo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EjerciciosSobrecarga/EjerciciosSobrecarga.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EjerciciosSobrecarga/src/CalculadoraSobrecarga.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/.idea/FechaCumpleaños.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/FelicitacionCumpleanos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/out/production/FechaCumpleaños/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/out/production/FechaCumpleaños/.idea/FechaCumpleaños.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/out/production/FechaCumpleaños/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/out/production/FechaCumpleaños/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/out/production/FechaCumpleaños/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/FechaCumpleaños/out/production/FechaCumpleaños/FelicitacionCumpleanos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Geometria/Rombo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Geometria/Rombo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Geometria/RomboCasero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Geometria/RomboCasero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Geometria/Triangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Geometria/Triangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/HolaMundo/HolaMundo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/HolaMundo/HolaMundo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/If/IfExercises.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/If/IfExercises.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/If/Tarta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/If/Tarta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Julian_Anton/CinePrecioCalc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Julian_Anton/CinePrecioCalc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Julian_Anton/Julian_Anton_Colman.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Julian_Anton/VerificadorPrimos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Julian_Anton/VerificadorPrimos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Lago/Lago.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Lago/Lago.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Lago/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/MathEjercicios/MathDos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/MathEjercicios/MathDos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/MiPrimerPrograma.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Parse/EjerciciosParse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Parse/EjerciciosParse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Programacion.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/ProgramasOperadores/Fichar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/ProgramasOperadores/Fichar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/RecetaGrupo/Receta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/RecetaGrupo/Receta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Rombo/Rombo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Rombo/Rombo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/RupturaSecuencia/SentenciaDeRuptura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Suma/Comparacion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Suma/Comparacion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Suma/EjercicioCuatro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Suma/EjercicioCuatro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Suma/IntSuma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Suma/IntSuma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Suma/PiFinal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Suma/Suma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Suma/Suma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/SumaPares/SumaNumerosPares.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/SumaPares/SumaNumerosPares.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Switch/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Switch/Calculadora.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Switch/Mes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Switch/Mes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Switch/OrganizarAnimales.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Switch/OrganizarAnimales.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Switch/TartaSw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Switch/TartaSw.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Ternarios/CalificacionTernario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Ternarios/CalificacionTernario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Ternarios/DiasMes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Ternarios/DiasMes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Ternarios/MesTernario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Ternarios/MesTernario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Ternarios/RepeticionLetra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Ternarios/RepeticionLetra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Tren/Billete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Tren/Billete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Bool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Char.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Char.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Datos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Final.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Final.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Real.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Real.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/Var/Variable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/EjerciciosArrays/ArrayAlfabetico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/EjerciciosArrays/ArrayMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/EjerciciosArrays/SumaArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/EjerciciosArrays/inversionArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/EjerciciosSobrecarga/CalculadoraSobrecarga.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/.idea/AutoEva.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/.idea/FechaCumpleaños.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Julian_Anton_Colman.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Maraton.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Maraton.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/Nuevo documento de texto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/out/production/FechaCumpleaños/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/out/production/FechaCumpleaños/.idea/FechaCumpleaños.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/out/production/FechaCumpleaños/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/out/production/FechaCumpleaños/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/out/production/Programacion/out/production/FechaCumpleaños/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoSwing/Formulario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoSwing/Formulario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LMSGI/T3-P2-Unidades_de_medida/T3-P2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../LMSGI/T3-P2-Unidades_de_medida/T3-P2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/EmpleadoEj/Operario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/EmpleadoEj/Operario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/EmpleadoEj/TestEmpleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/EmpleadoEj/TestEmpleados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/TrabajadoresEj/GestionTrabajadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/TrabajadoresEj/GestionTrabajadores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +55,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -198,6 +83,9 @@
       <workItem from="1703058711261" duration="1529000" />
       <workItem from="1703069655796" duration="594000" />
       <workItem from="1704878054053" duration="2208000" />
+      <workItem from="1705475315585" duration="7920000" />
+      <workItem from="1705483477534" duration="870000" />
+      <workItem from="1706082838979" duration="466000" />
     </task>
     <servers />
   </component>

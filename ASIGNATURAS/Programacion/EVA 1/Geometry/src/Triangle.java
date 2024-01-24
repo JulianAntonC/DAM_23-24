@@ -1,4 +1,4 @@
-public class Triangulo {
+public class Triangle {
     public static void main(String[] args) {
 
         System.out.print("\n¿Cuántas lineas desea que tenga el triángulo?: ");

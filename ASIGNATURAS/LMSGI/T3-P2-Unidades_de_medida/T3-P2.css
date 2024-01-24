@@ -1,9 +1,6 @@
 header {
   background-color: #333;
-<<<<<<< HEAD
   color: #fff;
-=======
->>>>>>> 89b660d918912a1809e876eb0cc3b736e41c3ea1
   padding: 20px;
 }
 h1 {
@@ -26,7 +23,6 @@ div {
   width: 200px;
   box-sizing: content-box;
   height: 150px;
-<<<<<<< HEAD
 
   margin: 10px;
   padding: 20px;
@@ -43,6 +39,3 @@ div {
 div:hover {
   background-color: #cce5ff;
 }
-=======
-}
->>>>>>> 89b660d918912a1809e876eb0cc3b736e41c3ea1
