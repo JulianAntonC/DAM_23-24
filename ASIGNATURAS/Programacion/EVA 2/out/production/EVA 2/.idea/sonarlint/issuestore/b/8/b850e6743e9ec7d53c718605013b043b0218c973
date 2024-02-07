@@ -1,0 +1,8 @@
+
+w	java:S116"VRename this field "NUM_PLAYERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Íãùÿÿÿÿ8Ûú°›Ø1
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8Ûú°›Ø1
+G	java:S106"+Replace this use of System.out by a logger.(²ªçõ8Ûú°›Ø1
+L	java:S106 "+Replace this use of System.out by a logger.(èçÖËúÿÿÿÿ8Ûú°›Ø1
+G	java:S106$"+Replace this use of System.out by a logger.(¡ÜŞ‡8Ûú°›Ø1
+L	java:S106."+Replace this use of System.out by a logger.(¯ÿ†µøÿÿÿÿ8Ûú°›Ø1

@@ -8,25 +8,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c6c247-4a0e-4bdf-a5f4-5894cc7a347c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoSwing/src/FormularioCompleto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaDocEj/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaDocEj/javaDocEj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/Agenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/Clases_Y_Objetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/oovv/Casa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/oovv/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/Clases_Y_Objetos/Clases_Y_Objetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/1/c/1ca495ffb91f2282e2684a9152348a1e6d519cec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/3/4/341d77cb142fac7594affeefb29577c1a86eb3eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/3/a/3a5d9618dda8d52569ddf3ff432252e210c6fddf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/3/d/3de4b9e9525b2be7475fc09b16c91b8408c212e6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/5/c/5c84d1ef9c5e9987af0863f3324a05ae732a57aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/5/e/5e19b3250798e438233e9c52379b332d795de0c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/8/f/8f4103454ebecf4f6c2dcbe04fbd06d629572a46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/9/a/9abe9b36d65dae3d1eef2ceba184fd3fe93e26ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/b/b/bbbed078fb1dd991f2857354df8ebe0d382689a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/c/9/c91118960ce7d5ff274e3a5ab22642bbb8c09f59" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/f/0/f0bb7ca84c2023812082dbf5bb4e55c2623cc63d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/f/7/f77d0a47012f8b7e3cbdc7a07a75aa7ca2429baa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/1/c/1ca495ffb91f2282e2684a9152348a1e6d519cec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/3/4/341d77cb142fac7594affeefb29577c1a86eb3eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/3/a/3a5d9618dda8d52569ddf3ff432252e210c6fddf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/3/d/3de4b9e9525b2be7475fc09b16c91b8408c212e6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/5/c/5c84d1ef9c5e9987af0863f3324a05ae732a57aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/5/e/5e19b3250798e438233e9c52379b332d795de0c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/8/f/8f4103454ebecf4f6c2dcbe04fbd06d629572a46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/9/a/9abe9b36d65dae3d1eef2ceba184fd3fe93e26ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/b/b/bbbed078fb1dd991f2857354df8ebe0d382689a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/c/9/c91118960ce7d5ff274e3a5ab22642bbb8c09f59" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/f/0/f0bb7ca84c2023812082dbf5bb4e55c2623cc63d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/f/7/f77d0a47012f8b7e3cbdc7a07a75aa7ca2429baa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/StringBufferDelEj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/capicua/Capi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/capicua/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion/EVA 2/extension_biblioteca/Biblioteca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSwing/src/Formulario.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoSwing/src/Formulario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoSwing/Formulario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoSwing/Formulario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LMSGI/T3-P2-Unidades_de_medida/T3-P2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../LMSGI/T3-P2-Unidades_de_medida/T3-P2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entornos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Entornos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoSwing/ProyectoSwing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoSwing/ProyectoSwing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaDocEj/javaDocEj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaDocEj/javaDocEj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/EVA 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/EVA 2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/EmpleadoEj/Operario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/EmpleadoEj/Operario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/EmpleadoEj/TestEmpleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/EmpleadoEj/TestEmpleados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/TrabajadoresEj/GestionTrabajadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/Clases_Y_Objetos/TrabajadoresEj/GestionTrabajadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/.idea/EVA 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/.idea/EVA 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/Agenda.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/Agenda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/Clases_Y_Objetos/EmpleadoEj/TestEmpleados.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/Clases_Y_Objetos/EmpleadoEj/TestEmpleados.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/oovv/Casa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion/EVA 2/out/production/EVA 2/oovv/Casa.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +76,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "E:/DAM_23-24/ASIGNATURAS/Programacion/EVA 2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/DAM_23-24/ASIGNATURAS/Programacion/EVA 2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,6 +111,10 @@
       <workItem from="1705475315585" duration="7920000" />
       <workItem from="1705483477534" duration="870000" />
       <workItem from="1706082838979" duration="466000" />
+      <workItem from="1706088516892" duration="720000" />
+      <workItem from="1706099065812" duration="599000" />
+      <workItem from="1706172859123" duration="599000" />
+      <workItem from="1706264465487" duration="268000" />
     </task>
     <servers />
   </component>

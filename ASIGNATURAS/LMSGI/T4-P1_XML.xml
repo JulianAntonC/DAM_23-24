@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum_vitae>
+    <informacion_personal>
+        <nombre_apellidos>Julian Anton Colman</nombre_apellidos>
+        <fecha_nac>2002</fecha_nac>
+        <residencia>
+            <ciudad>Valencia</ciudad>
+            <pais>España</pais>
+        </residencia>
+
+        <datos_de_contacto>
+            <telefono>6210663477</telefono>
+            <mail>example@gmail.com</mail>
+            <linkedin>linkedin.com</linkedin>
+        </datos_de_contacto>
+    </informacion_personal>
+    <descripcion_general>LoremIpsum.</descripcion_general>
+    <competencias>
+        <idiomas>
+            <espanol>Nativo</espanol>
+            <ingles>C1</ingles>
+        </idiomas>
+    </competencias>
+    <formacion_academica>
+        <titulacion>Ingeniería Informática</titulacion>
+        <centro_formacion>Universidad X</centro_formacion>
+        <fecha_titulacion>2015</fecha_titulacion>
+    </formacion_academica>
+    <experiencia_profesional>
+        <puesto>Desarrollador de software</puesto>
+        <empresa></empresa>
+        <fecha_inicio>2016</fecha_inicio>
+        <fecha_fin>2020</fecha_fin>
+    </experiencia_profesional>
+</curriculum_vitae>
