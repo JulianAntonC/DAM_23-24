@@ -55,10 +55,15 @@ class MultiplicationGame {
             System.out.println("¡No hay ganadores!");
         } else {
             switchPlayer();
-            if ((NUM_PLAYERS == 3) && (currentPlayer != 3)) {
-                currentPlayer += 1;
-            } else {
-                currentPlayer -= 2;
+
+            while (NUM_PLAYERS == 3) {
+                if (currentPlayer == 3) {
+                    currentPlayer -= 2;
+                    break;
+                } else {
+                    currentPlayer++;
+                    break;
+                }
             }
 
             System.out.println("¡El Jugador " + (currentPlayer) + " es el ganador!");
